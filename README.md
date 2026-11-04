@@ -1,8 +1,8 @@
 # Aether Client
 
-**A modern, lightweight, and customizable Minecraft: Java Edition launcher.**
+**A modern, lightweight, and customizable Minecraft: Java Edition Client.**
 
-Aether is an independent Minecraft launcher currently in active development. Built with Rust, Tauri 2, Svelte, and TypeScript, the project aims to provide a fast, reliable, and user-friendly experience for Minecraft Java Edition players.
+Aether is an independent Minecraft Client currently in active development. Built with Rust, Tauri 2, Svelte, and TypeScript, the project aims to provide a fast, reliable, and user-friendly experience for Minecraft Java Edition players.
 
 Our goal is to combine a clean, modern desktop interface with powerful instance management, modding support, performance optimizations, and optional in-game customization features.
 
@@ -117,7 +117,7 @@ No third-party launcher credentials or unofficial authentication bypasses are us
 
 ## Disclaimer
 
-Aether Launcher is an independent, unofficial project.
+Aether Client is an independent, unofficial project.
 
 **Aether is not affiliated with, endorsed by, sponsored by, or associated with Mojang Studios, Microsoft Corporation, or Xbox.**
 
@@ -127,4 +127,4 @@ Aether does not distribute Minecraft game files independently. Game files are in
 
 ---
 
-**Aether Launcher — Built for a better Minecraft experience.**
+**Aether Client — Built for a better Minecraft experience.**
