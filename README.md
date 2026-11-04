@@ -1,4 +1,4 @@
-# Aether Launcher
+# Aether Client
 
 **A modern, lightweight, and customizable Minecraft: Java Edition launcher.**
 
